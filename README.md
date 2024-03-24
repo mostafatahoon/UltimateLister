@@ -1,4 +1,5 @@
 # UltimateLister
+UltimateLister is a sophisticated yet user-friendly list management app designed to help users organize their tasks and reminders efficiently. Built with the robust Room database and leveraging the Model-View-ViewModel (MVVM) architecture, it ensures smooth performance and a seamless user experience. Whether you're planning your day, tracking your projects, or setting reminders, UltimateLister makes it effortless.
 
 ## Features
 
