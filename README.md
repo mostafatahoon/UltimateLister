@@ -4,7 +4,6 @@ UltimateLister is a sophisticated yet user-friendly list management app designed
 ## Features
 
 - Task Management
-- Notes
 - Reminders
 - Data Persistence
 
