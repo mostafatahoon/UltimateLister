@@ -12,8 +12,8 @@ UltimateLister is a sophisticated yet user-friendly list management app designed
 
 ### Prerequisites
 
-- Android Studio (version XYZ or later)
-- JDK (version XYZ or later)
+- Android Studio 
+- JDK 
 
 ### Installation
 
@@ -49,7 +49,6 @@ Distributed under the MIT License.
 
 ## Contact
 
-- MostafaTahoon
 - mostafatahoon91@gmail.com
 
 Project Link: [https://github.com/mostafatahoon/UltimateLister](https://github.com/mostafatahoon/UltimateLister)
