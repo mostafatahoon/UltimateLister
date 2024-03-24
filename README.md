@@ -23,7 +23,16 @@ UltimateLister is a sophisticated yet user-friendly list management app designed
 
 ## Usage
 
-Provide usage instructions here.
+1. **Adding a Task**: To add a new task, simply tap on the "+" button in the app. Enter the task details such as title, description, priority, and due date, then tap on the "Save" button.
+
+2. **Viewing Tasks**: All your tasks will be displayed on the main screen of the app. You can scroll through the list to view all tasks. Tap on a task to view its details.
+
+3. **Editing a Task**: To edit a task, tap on the task you wish to edit from the list. Then, tap on the "Edit" button. Make your changes and tap on "Save" to update the task.
+
+4. **Deleting a Task**: To delete a task, swipe left on the task from the main screen. Confirm the deletion when prompted.
+
+5. **Setting Reminders**: For important tasks, you can set reminders to ensure you don't forget them. When adding or editing a task, you'll have the option to set a reminder.
+
 
 ## Contributing
 
@@ -46,7 +55,7 @@ Distributed under the MIT License.
 Project Link: [https://github.com/mostafatahoon/UltimateLister](https://github.com/mostafatahoon/UltimateLister)
 ## Acknowledgments
 
-This project was created following the [MVVM Shopping List Tutorial]([link-to-tutorial](https://www.youtube.com/playlist?list=PLQkwcJG4YTCT0RouHZ6sQlE4JE6VyD2zO)) by Philipp Lackner. I would like to express my gratitude for the valuable insights gained from the tutorial.
+This project was created following the [MVVM Shopping List Tutorial](https://www.youtube.com/playlist?list=PLQkwcJG4YTCT0RouHZ6sQlE4JE6VyD2zO) by Philipp Lackner. I would like to express my gratitude for the valuable insights gained from the tutorial.
 
 ### Project Details
 
